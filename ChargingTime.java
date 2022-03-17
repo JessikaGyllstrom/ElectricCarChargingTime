@@ -1,8 +1,8 @@
 
-public class Uppgift1 {
+public class ChargingTime {
 
 	/**
-	 @author Jessika Gyllström, jesgyl-0
+	 @author Jessika Gyllström
 
 	 Programmet räknar ut laddtid för elbil
 
